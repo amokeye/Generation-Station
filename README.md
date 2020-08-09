@@ -1,6 +1,6 @@
 # Generation-Station
 
-The Javascript code (colored by CSS and HTML) effectively generates randomized passwords, and meets the user's criteria based on inputs/selections.
+WELCOME TO GENERATION STATION! The Javascript code (colored by CSS and HTML) effectively generates randomized passwords, and meets the user's criteria based on inputs/selections.
 
 '
 
